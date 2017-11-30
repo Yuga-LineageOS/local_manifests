@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remove-project name="LineageOS/android_packages_apps_Settings" />
+
+	<project path="device/sony/fusion3-common" name="Yuga-LineageOS/android_device_sony_fusion3-common" remote="github" />
+	<project path="device/sony/yuga" name="Yuga-LineageOS/android_device_sony_yuga" remote="github" />
+	<project path="device/sony/common" name="LineageOS/android_device_sony_common" remote="github" />
+	<project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" />
+	<project path="hardware/sony/thermanager" name="LineageOS/android_hardware_sony_thermanager" remote="github" />
+	<project path="kernel/sony/apq8064" name="Yuga-LineageOS/android_kernel_sony_apq8064" />
+	<project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" />
+	<project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="github" />
+	<project path="packages/apps/Settings" name="Yuga-LineageOS/android_packages_apps_Settings" remote="github" />
+</manifest>
